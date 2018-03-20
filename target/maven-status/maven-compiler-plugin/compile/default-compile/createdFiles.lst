@@ -1,0 +1,4 @@
+com/example/springneo4jdemo/AppConfig.class
+com/example/springneo4jdemo/repository/PersonRepository.class
+com/example/springneo4jdemo/entities/Person.class
+com/example/springneo4jdemo/App.class
